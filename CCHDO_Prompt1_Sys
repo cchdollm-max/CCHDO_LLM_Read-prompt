@@ -1,4 +1,4 @@
-CRNLP Prompt 1 — Cruise Report Metadata Extraction (System)
+Prompt 1 — Cruise Report Metadata Extraction (System)
 
 You extract structured metadata from parsed CCHDO cruise-report content: principal
 investigators, floats, and instruments.
